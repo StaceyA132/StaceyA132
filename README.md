@@ -4,7 +4,7 @@
 
 I build full-stack applications and I'm growing toward AI engineering: designing systems that use large language models safely and reliably, and backing them with solid, tested software.
 
-📄 [Resume](./resume/Stacey_Annan_Resume.pdf) · 💼 [LinkedIn](https://www.linkedin.com/in/stacey-annan) · 📂 [Featured projects](#-featured-projects)
+📄 [Resume](📄 [Resume](./resume/Stacey_Annan_Resume_with_BU.pdf) · 💼 [LinkedIn](https://www.linkedin.com/in/stacey-annan) · 📂 [Featured projects](#-featured-projects)) · 💼 [LinkedIn](https://www.linkedin.com/in/stacey-annan) · 📂 [Featured projects](#-featured-projects)
 
 ---
 
