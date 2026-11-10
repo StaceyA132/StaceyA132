@@ -37,7 +37,7 @@ A React app that follows live sports games across 8 sports and 15 leagues and tu
 
 **Languages & tools:** JavaScript, React, Vite, HTML, CSS
 
-### [Community Health Resource Finder]([https://github.com/StaceyA132/community-health-resource-finder])
+### [Community Health Resource Finder](https://github.com/StaceyA132/community-health-resource-finder)
 An AI-powered tool that helps people find local health resources by describing what they need in plain language. An OpenAI-based parser turns each request into a structured search, and safety guardrails keep responses appropriate.
 
 **Languages & tools:** JavaScript, Swift, React, Next.js, SwiftUI, OpenAI API, Supabase
