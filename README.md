@@ -61,4 +61,3 @@ A full-stack employee management app with a Spring Boot REST API, React frontend
 
 ---
 
-*This portfolio grows with my program. Check back for new projects.*
